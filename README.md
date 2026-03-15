@@ -1,5 +1,9 @@
 # Top-Down Zombie Drifter - Unity Technical Test
 
+**📺 YouTube Demo Video:** [Click here to watch the gameplay demo](https://youtube.com/shorts/qsEOD6dLwUw?feature=share)
+
+---
+
 ## Overview
 This is a top-down, portrait-oriented mobile car game developed in Unity 6.3 LTS. The objective is to drive a vehicle using swipe-based mobile controls to hit wandering zombies within a set time limit, maximizing the score before the countdown ends. 
 
