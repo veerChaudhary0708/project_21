@@ -1,6 +1,6 @@
 # Top-Down Zombie Drifter - Unity Technical Test
 
-**📺 YouTube Demo Video:** [Click here to watch the gameplay demo](https://youtube.com/shorts/qsEOD6dLwUw?feature=share)                   
+**📺 YouTube Demo Video:** [Click here to watch the gameplay demo](https://youtube.com/shorts/3Ui_XJ-8NSI?feature=share)                   
 **📱 Playable Android APK:** [Download the final build from Releases](https://github.com/veerChaudhary0708/project_21/releases/tag/v1.1.0)
 ---
 
